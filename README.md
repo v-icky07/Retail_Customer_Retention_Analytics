@@ -1,4 +1,5 @@
 # 🛒 Retail Customer Retention Analytics – Walmart
+![Project_Dashboard](Power_BI_Report.png)
 
 ## 📌 Project Overview
 With increasing competition from Amazon, Target, and other retailers, retaining customers has become a critical challenge for Walmart. While vast customer data is available, existing reporting lacks analytical depth.
