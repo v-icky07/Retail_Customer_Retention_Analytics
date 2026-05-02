@@ -192,7 +192,7 @@ Key insights:
 ---
 
 ## 📽️ Project Demo
-*(Add your video link here)*
+[Video Link](https://drive.google.com/file/d/1s8DpEO-JtRPlwyPUff5S2GtBxoJDz3t8/view)
 
 ---
 
